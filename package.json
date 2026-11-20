@@ -1,0 +1,11 @@
+{
+  "name": "shadow-monarch-server",
+  "version": "1.0.0",
+  "description": "Serveur multijoueur minimal pour Éveil des Ombres",
+  "main": "server.js",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
